@@ -1,0 +1,11 @@
+C:\Users\bartek\devwork\presentation\app\bin\Debug\netcoreapp2.2\app.deps.json
+C:\Users\bartek\devwork\presentation\app\bin\Debug\netcoreapp2.2\app.runtimeconfig.json
+C:\Users\bartek\devwork\presentation\app\bin\Debug\netcoreapp2.2\app.runtimeconfig.dev.json
+C:\Users\bartek\devwork\presentation\app\bin\Debug\netcoreapp2.2\app.dll
+C:\Users\bartek\devwork\presentation\app\bin\Debug\netcoreapp2.2\app.pdb
+C:\Users\bartek\devwork\presentation\app\obj\Debug\netcoreapp2.2\app.csprojAssemblyReference.cache
+C:\Users\bartek\devwork\presentation\app\obj\Debug\netcoreapp2.2\app.csproj.CoreCompileInputs.cache
+C:\Users\bartek\devwork\presentation\app\obj\Debug\netcoreapp2.2\app.AssemblyInfoInputs.cache
+C:\Users\bartek\devwork\presentation\app\obj\Debug\netcoreapp2.2\app.AssemblyInfo.cs
+C:\Users\bartek\devwork\presentation\app\obj\Debug\netcoreapp2.2\app.dll
+C:\Users\bartek\devwork\presentation\app\obj\Debug\netcoreapp2.2\app.pdb
